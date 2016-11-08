@@ -1,4 +1,4 @@
-# numbers-to-words
+# numbers-to-words [![Build Status](https://travis-ci.org/vlaurin/numbers-to-words.svg?branch=master)](https://travis-ci.org/vlaurin/numbers-to-words)
 
 Convert numbers in their numeric representation to their British English words representation.
 Supports numbers from 0 to 999,999,999.
